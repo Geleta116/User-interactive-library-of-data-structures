@@ -11,7 +11,7 @@ This project solves one main core problem which is enabling people who don’t h
 In the first phase we implemented the codes for each of the 5 data structures and we also implemented some unique manipulations to make them display values rather than printing them
 In the second phase we created a main method that will receive input from users in order to perform the creating and manipulations requested by the user.
 The system displays different prompts and actions with every number entered until the number assigned to break the statement is called.
-###ACTIONS THAT A USER CAN MAKE ARE DISPLAYED IN THE TABLE BELOW
+## ACTIONS THAT A USER CAN MAKE ARE DISPLAYED IN THE TABLE BELOW
 |SINGLY LINKED LIST                    | DOUBLY LINKED LIST	            |         STACK	                |      QUEUE	               | CIRCULAR DOUBLY LINKED LIST    |
 |--------------------------------------|--------------------------------|-------------------------------|----------------------------|--------------------------------|
 |Creating the data structure           |Creating the data structure     |	Creating the data structure   |Creating the data structure |	Creating the data structure   |
